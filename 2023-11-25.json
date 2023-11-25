@@ -1,0 +1,26 @@
+{
+  "name": "Herman Ball",
+  "age": 21,
+  "address": {
+    "street": "Alezik Trail",
+    "city": "Manjivi",
+    "state": "ID",
+    "zip": "20555"
+  },
+  "contact": {
+    "phone": "(431) 294-5116",
+    "servicePhone": "800757663"
+  },
+  "birthday": "2004-10-18T14:06:11.086Z",
+  "ip": "226.49.7.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Igaguuko puhajow curbo ovda topfo isu ofiwifjiv pacense emoco zowo ni sufuc. Ohben wi nuzaz jofib cab depmilo lot turu zowobi hu zec tek buguw ni an. Te lid hiprasefi hejeze ovtowsa riovbon usoon ijabafazu eri las kofabi eco zapara.",
+    "bio": "Musav ti fe dupimaci hupir jufsaj umav ecrutoc pi lizvic hu roedi an miw mibin ji tecoruc ev. Nobupir red on kojgesido dogbelut nabuk odi pikog avmomgu cakneaze le ovupin. Eg regebo ur won getagab ewro anocog uhool wot agej hignoz pez hitinlo oto ejwuvgef vadurab zo. Ojdev pawewo we felparji ojemopilu ewfosleh lamefwo lucima ejatojig ujo num fan. Sinot jusu ma useve sam go bozcuf ze fuzta vucoho rowgi zacjues tegewofe sijgaz ku. Ola gewnadul nos ato kice wug niwag dericpu ga vu mej bicub sanfokok."
+  },
+  "apiKey": "a72dc7a1503b9464b67919a035ffc4abb5190ae2f4439eb198b3ad728b12a774",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
