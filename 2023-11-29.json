@@ -1,0 +1,26 @@
+{
+  "name": "Lula Cruz",
+  "age": 23,
+  "address": {
+    "street": "Rilik Highway",
+    "city": "Lelujoro",
+    "state": "CO",
+    "zip": "07131"
+  },
+  "contact": {
+    "phone": "(337) 901-2152",
+    "servicePhone": "800175784"
+  },
+  "birthday": "1964-01-19T13:31:02.446Z",
+  "ip": "143.120.18.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Sic utonelu owfan goz naj lanefiri ibedapi convebwe satni arwejef to mezguz iha sukaze. Acigi cigus zonrombo luj ekiobne oba fo cigdon pov kofur ojco zibad zidva eka go. Zucuju su loknu wetwiwboz demabji verhi fah goj dupoz nuzjese ohemup iluziz ne jizdowup.",
+    "bio": "Mabe ewepni le cahman jotenviw folebol cun iveoni zujjap hief beru agoupaguk obeow huh gi iz duvi. Sedru loaza torcaaz it wul cojih ildupcuk dolas up covse patu odi vok calaca ku boh sihgecuka. Hi vidmo ipalius cul cirzochen wowce juwiso me zalunez umo hos enih le cewozijo dawko. Es foc ewofat ubdofu abki orcol akaketup desdiwo caj ok cuvogi volkugi si hudlule nafwuj."
+  },
+  "apiKey": "38175257ac9bd70bfcfe3ded791d835b490b689c6536a719fae93a5cec58da3f",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
