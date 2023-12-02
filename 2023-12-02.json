@@ -1,0 +1,26 @@
+{
+  "name": "George Love",
+  "age": 33,
+  "address": {
+    "street": "Zinhe Plaza",
+    "city": "Umsobne",
+    "state": "HI",
+    "zip": "47054"
+  },
+  "contact": {
+    "phone": "(710) 896-1786",
+    "servicePhone": "800827165"
+  },
+  "birthday": "1962-08-18T22:37:34.302Z",
+  "ip": "190.174.95.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Duinu ewubu wi givivpur mer to wukem vi owesesve lu tu vepvel alope pawlucki lawajwi jug. Ed piwi kisod ji minemo lialwat gimveumu tomnen fafvo ohmet cev adojulet. Biti jaw maudo ka fa manalab vif abakukzad hitelow fofosi vecje magiefe azu mibfit atioji bu. Gewjo pec eci carir izezucnaf vimojpe kujras jul nonensat zasuc tahme lennut lagenfo umanukvi jowuza pasvafig cekuv. Fos vonukji vobfirtih acumorriv jakena wic riluk wuv hozeccuw wisod soejjo katogi felwugjih. Mu demib jobtot komud oz mud ujpisho kacajnel wusceh so waimu wivemle hivo gubazoge fapla ritfozi min. Gehfe juk tul fiud lafjo dej ecdigu hi hitjetave tuk odifido jetep mod tujfikhag olohac geze di.",
+    "bio": "Fovvaehu ku faf wor wucivet nudzif esjo ahapij rodbo azacmem vu hes galomho. Camgiho ihlikoti mogdu ibno jogiru umonaeju jo wa me uf jovo pogtu asorebeh fikkihis te ihefe iga gaor. Itamav jaltemi noj apiku davotom lufeh varirjim viv feesame ojelo busokjel seka po."
+  },
+  "apiKey": "fe5d3d27b2eb9eff70f4268ada2c6cc147b578af1fec9ca9dee40df7a70bdf72",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
