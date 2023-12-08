@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Griffin",
+  "age": 52,
+  "address": {
+    "street": "Dubum Point",
+    "city": "Lisajeniz",
+    "state": "ND",
+    "zip": "22916"
+  },
+  "contact": {
+    "phone": "(541) 709-3104",
+    "servicePhone": "800638222"
+  },
+  "birthday": "1959-12-18T06:19:26.690Z",
+  "ip": "92.214.159.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Opar as dappebiz ika fujuw rogoho ijusozo zelirbat vog je idacuun kenebuf uzuze gojifro. Rugu zipo cudis go veluflej kuh buavso aremu og firpiwil pawsici mumko lefsenuh imkinzo umalovjur gim mujrutfu. Izfi tinsef idivo gurbom cahohaza racmo vulrug gopji afoohlig no uzde redolam zaedi vogun ub puarif oreone. Fo voketkol wifvoeje tubwefseg piwam kijfu pujvo dakine ihdigo gegga duw ok ojohekoc dulew bahefce bora igo.",
+    "bio": "Vuk wo pobmop ago opi vaw funopbof zuzhiofo kotlok enac je idu uv. Nigbojeka ziku bi ra ruk udi hubbejraf ukhowe remri sevafe owe zeh pusata rafawsel wo peti. Zitje pusguh hatufu dif wakag tudtow zow sef wan zafzire hoz ibi ki. Caof ezejuren duodenom vevbalme dufhe cupalpeh agi ja zepuc mo waal av nitto noredi valaese. Neag nuzos vilo bu wuf gur bekiwda waipzo futuholot hinir zif loonuz. Zuwujem fuk dif nagefhoc moz rorudwi igfet gafpu jitaila katje reri nanadbav cusedne foktiela re pedu mim pekjehib."
+  },
+  "apiKey": "33a99d1d840614a5fa50665034fc8846ce0b3ac7ef7c8252985ee337172de1ac",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
