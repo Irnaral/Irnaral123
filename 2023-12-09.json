@@ -1,0 +1,26 @@
+{
+  "name": "Ophelia Baldwin",
+  "age": 25,
+  "address": {
+    "street": "Wahow Glen",
+    "city": "Rekevsa",
+    "state": "DE",
+    "zip": "93200"
+  },
+  "contact": {
+    "phone": "(853) 592-4470",
+    "servicePhone": "800366891"
+  },
+  "birthday": "1991-02-11T04:25:16.501Z",
+  "ip": "183.25.214.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Rov deehova cerewo di gitoroj mi vuf nuw tuj wah ujenoemi difgaz hu ig nehwikre epawagmu. Pit idevojfo es cazrevi nupabi owli wuh fozhupdok ise zeur eg vupe vetut. Jumunle ozlo ek cih azwi nucwu owcok fo defhej ruccud nomcev suja ov su is bi. Cikdo bazu luwavra he infap lupoppoc ve ciwdu sinvijjo gitu lucijaubi amu selun huidmav guwforivi zuwe ivuci rurzagap.",
+    "bio": "Bino uz sifozdif eto fas erure wacit wi keheuj copbi ako nu mu umoahmi. Nakin uzo okaecti kigborune cozcuze ketitug fac iboini aho pu pumcip gofsog cuusmag ute ov. Mirnopidi na canaj josri kikijope if owgo selikfal mafij heh izo feirke solfup si. Tuvmejpa rowoltec agutci zer faz lafu vebbetup beoh ezobodo sa acbu ognoz cegroz voehice obe mawe zu om. Hovuv jilu ne neji or betuvzec juwuheri hi bamulhi jog dasosimu seojeha docijpif afava faz gokujfo funu."
+  },
+  "apiKey": "fc03c88037b545dca6403d4974ae786fc5ff3bb1028c575b05c0ee51b0e8d3dc",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
