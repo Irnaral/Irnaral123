@@ -1,0 +1,26 @@
+{
+  "name": "Lenora Gregory",
+  "age": 20,
+  "address": {
+    "street": "Mazu Loop",
+    "city": "Kulgonzuz",
+    "state": "IL",
+    "zip": "29013"
+  },
+  "contact": {
+    "phone": "(667) 620-2495",
+    "servicePhone": "800719578"
+  },
+  "birthday": "1973-10-31T02:34:34.628Z",
+  "ip": "181.137.81.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Jozuk bojil cemci re moc obkin arofu ruaz kosuab ulwa kofoc urpi ril. Vu ob cuvisati nelo eju cefpim irdofkec owutbun gaw veb lop ijomevlev regowesa emi sossuzno camaki di. Tedagbiz ho juom fif wo corenuh ca cecuv zevkecjo rihuz omivoaza gojbug do.",
+    "bio": "Kugdeno nigtegahu hoed lobho tortunuv fo ho na nekdaj tujso fa novji. Ewri nasi cabbo aw ihpe jedog sukreoj ja boclatjek osmud pozpa udewic nu da juf ce un ju. Ci guomedot wuvaowo tecu vab dosocjec jitepager ruj zosaf azice meuceob pi afo da jamagibub mi melragor."
+  },
+  "apiKey": "0ddea82d2be254433029bb3664aaa91caf146b7dc5b119e81b7b55c85a904cff",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
