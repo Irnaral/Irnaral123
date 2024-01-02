@@ -1,0 +1,26 @@
+{
+  "name": "Henry Webster",
+  "age": 31,
+  "address": {
+    "street": "Likza Court",
+    "city": "Suzlopo",
+    "state": "NE",
+    "zip": "69420"
+  },
+  "contact": {
+    "phone": "(277) 401-3290",
+    "servicePhone": "800134287"
+  },
+  "birthday": "1991-11-26T08:30:41.588Z",
+  "ip": "216.111.61.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi zocban gem azvo ajgow vedsenaj jama wonjahral ci us kac fo. Ilakeev zacvusoki sapmipo wupu ujvizpoz ronusjoc ririwwi uclidpo wadej potfisag ef ineap ojar nu. Man vidsem sa ku zeduvu tiw ce jefatec secug otgablof pelkibiw zu nihorzaf be.",
+    "bio": "Fegno lig rara latja kinemuw jeptacji wavzufuf adakig mamus vabwufub ruhek soceh edo lildehzic vejlebow. Niz medol reso woris achomhoh bol varaponi sow me ozi uvivu kulomje rivew baknan. Cuimco ok jepil zegablu cu tic cedkoktu budunu zekfise duzti lo bobfap icesi socusomof juge uteho. Dombaif ochoj advi rag epobig za tackepa tahu alimeeb folpez sa lej dorwahe doujo ker zive."
+  },
+  "apiKey": "615e7708305127db13d3265b482beafc6dec688b4ba73c69b651e5bfe235b15c",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
