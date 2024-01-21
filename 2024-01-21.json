@@ -1,0 +1,26 @@
+{
+  "name": "Glen Rodriguez",
+  "age": 23,
+  "address": {
+    "street": "Ebal Plaza",
+    "city": "Zaisolam",
+    "state": "AK",
+    "zip": "06633"
+  },
+  "contact": {
+    "phone": "(486) 348-1680",
+    "servicePhone": "800242684"
+  },
+  "birthday": "1960-01-30T15:27:13.942Z",
+  "ip": "158.45.206.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaw ejni se luzkov fuv ses isizu ma fubwi kevudi homol so lijgi an sozul pekel ec sutjod. Jumehmeg se ojhelve po caole etintok fujezrog amekakjew efuso milouv musat kap zogwan. Irlez vaedova jikwe uve aroguz fejowe mehre jekowle ibiaref fanuwro aguhab sikjo muf dek lal udfanda pozes. Pe ga zot wes itu ene dulpezbez omwo gumhu ameuwtu niris gipretkut ziwzaumu kewwiwed. To lizi nelmo uro miwurbar icuro ragelsep zupmu lunu lemup hujabpi pejdaleh ti onojur. Berugide pabfunon bugahak repom ormim mafcos fuano fucpofuv fogari iv utucpe iwgit lonokdus timlifot lihar izohu hizom. Evusococ uhmiktuk linewi jagwu veluptot sa ifmo wen esigibeh bodik su ija.",
+    "bio": "San caj teloc jagoaci azru juradsod riihi ko netula voj omo noslos fapoza. Tulti pufdifba ojeofuuba wapzitid walduwnu hijohida gon fecpipu ot hipgipu bi ebo tiw. Vocni fibda sit goadasuv nemibi ginoeci fem idaz nubna wudag afoojuwab bedes hijiup hosdu rarulri."
+  },
+  "apiKey": "452ab96d4fd27a71ad775b11417bb676394cb11e78bcae0a20b39ddf79520828",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
