@@ -1,0 +1,26 @@
+{
+  "name": "Cameron Bell",
+  "age": 59,
+  "address": {
+    "street": "Vowda Way",
+    "city": "Idesabi",
+    "state": "NH",
+    "zip": "03759"
+  },
+  "contact": {
+    "phone": "(874) 588-4527",
+    "servicePhone": "800491867"
+  },
+  "birthday": "1995-03-08T20:59:56.746Z",
+  "ip": "193.18.76.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Mel hipfa cenvokfu nir ukzize jawbavi atu zi be soamo fam sastugu japwer rituv uziujzul nidugfe. Ri nig docida kusuoho atmod vohni na ivoobisu oc efativ mijbip jez muh vuwak. Gejewzus pot evnigih idudu kuh uluak saelu levzefo mumacap sugugji uv agkid go nubo.",
+    "bio": "Buhva usiwevte rap goz lo upefev unkovhi rawwi voojanor pipvifbo weroc ifi zac. Ot ziwe deslovus arwuzab geojvim aju ag ri heme loos bi fepifif unse. Vu ca jefev mihapuw emo derel zicnap zuvvadne muz vecfuri em tioj umodungil rodoj ocki boctufmeg kobdukub. Zoted teknaru sisgikel vok fenih cap jacodum zehse bubgaj bu bis kevlok ge nacinu cone."
+  },
+  "apiKey": "56b1eccd2c21c30140d277e2113a786031b00419db0e7a3756b39e873b0aab25",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
