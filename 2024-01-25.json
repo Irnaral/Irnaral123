@@ -1,0 +1,26 @@
+{
+  "name": "Phoebe Potter",
+  "age": 23,
+  "address": {
+    "street": "Nivca Court",
+    "city": "Opemanep",
+    "state": "NJ",
+    "zip": "73749"
+  },
+  "contact": {
+    "phone": "(955) 663-3622",
+    "servicePhone": "800543144"
+  },
+  "birthday": "1979-04-14T14:49:44.088Z",
+  "ip": "238.124.121.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Efumojo nopkowba litope inadig nefe lewadi rizaz la fafugvil hu coccob purahzuz la. Evocob jijki mes ce tec bujli gewso cumij zum rowwuraf kuz sipfuc huzinu sufwaz ostif ra lic. Ticpij ha har lupahor isiziak rarso lu cumwoh no mi pat de zot ko nu to hadzohed. Lut geb buor fidotneb gum henu ikhi danuje ozekuk gawjo fac ukrinru cavbiw afi tuhzep kelfa ebiameti woj. Sejno wogofbu elsawmab uvi icosow udego lam namlak rajmokma uno av top rup fikciri.",
+    "bio": "Kiho duchidu igisol eg zipom na ciwtec ud iliha zo saz cu cufutajo za wah zu sabih gagjuk. Fogkazto mebop afufatno tot lili ijfa vaju rawrelke fa te iwugukuj iva. Fimunjef roh suparum ojho ji won jav muv sistibtic tese boc guje zeca fowaos enaekaco he. Adramwe bese aponuw ulci ni abico simcaggi wis gil lekedta owa tohruajo ezolaiko juj salpi heklejjo bebboh usbituke."
+  },
+  "apiKey": "a4c6c7b5a41ea0db4de7f1a70ba7d28d626a493ccd72952ee061a12c4e9e0e3c",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
