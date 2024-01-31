@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Steele",
+  "age": 65,
+  "address": {
+    "street": "Pezum Key",
+    "city": "Hiovla",
+    "state": "NM",
+    "zip": "77984"
+  },
+  "contact": {
+    "phone": "(458) 622-3213",
+    "servicePhone": "800519265"
+  },
+  "birthday": "1995-01-06T21:32:10.686Z",
+  "ip": "226.167.111.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Awo rikjovko zefmuc ofuwlar afeuha hakec ufi nisin rone fa ezbu izfukco avame wukar led. Omiri lowbelok dokofvu ige gikdohek duvvidbug barup wizow kumo ge etfakru la. Veb veljejno ob horjisu hafo zij lakturma gulce lof midezi hepowdu bu timiv duib ejuobwe ne us zioca. Apnisan vipaf wop towruzca jozur pitsi iha luhgoshu ureudo revcucuf tejgoafa tor udhef da ret gope. Juveti matoh zisit lupim maku bas gep gadciiva dazopo mi mobooj seh olappig la ta biuf.",
+    "bio": "Gijaswuz vi dodeap odi keh toc darni kaboar se bupnozje uzamul sascah red. Facetuimo var kudep amvo eviico ivo daskitdi rel sugij ujevo pemofioc wafi zated ce soload rinitju. Dutilo hioc upjatoti meihu watetuj lizhaapi sifufi gejnudu mipes repmu fopbicdaj bihso cuzgo mefvuh tawinup kukaas. Erefeh bicelaha atipos hatmub ligir nafow jadwesog icum imepasag tu wowosupe jivmuro wori ef kofewute it dej ma. Hev vuldisat bellilus abruhi fagag kukdotfuc ni ci vicjinap awcokhas eba mosjo fazi haudi unasodlu hidacdod vuj nahwiipi. Usopahhu anvurod ura gizavag wuvu durlofej suz daw vaovbu zufuka ugvoka ijuetinu hume ebivep jim zom nele ucazi."
+  },
+  "apiKey": "bcacb840d945be8241d9f5b9151fdce8da310a534c4e1a9872fc2aadffeed685",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
