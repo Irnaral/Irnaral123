@@ -1,0 +1,26 @@
+{
+  "name": "Marion Casey",
+  "age": 20,
+  "address": {
+    "street": "Mejbug Glen",
+    "city": "Acaroja",
+    "state": "IN",
+    "zip": "60655"
+  },
+  "contact": {
+    "phone": "(737) 910-2887",
+    "servicePhone": "800611771"
+  },
+  "birthday": "1971-03-27T17:08:29.817Z",
+  "ip": "141.182.42.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Cez evoaru abidvuw rere pitoli rikeha toavubis pu pazlos ce zevimi po woha bov rokvasga lutuzob refuka. Jinop huhaiz evra cezzuv memtaf mevpomrol di tajefu runoheha du duif rozijec fiwoczub joujo kiw. Apalobusi cikonov gicoj daj woc ehze epu do eknujbo kozafjug witenu ehu histutruh.",
+    "bio": "Ho fup zegsaje inojatuve hafnu raptod rabo ewnaloke le rakidoc buba po luamos ma uj. Ubepanfo ibbi nicujoohi alhihsi be rabagha ur gunli deprufo hamwu cawfo hezirca honve vukatma tatjidcur. Mavomi vopa egcufpok na cij pocfid wemunfed vogekpod ena viz uriju vi jedgefde efiv amalov afcop nerwuzsu kiref."
+  },
+  "apiKey": "3c0c368168a4ec8ae8da669e399f13bef736ea8391f4d7002fd9414fe38fa2cf",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
