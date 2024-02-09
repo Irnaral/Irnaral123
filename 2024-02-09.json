@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Summers",
+  "age": 30,
+  "address": {
+    "street": "Tewcuf Trail",
+    "city": "Hiwewa",
+    "state": "AK",
+    "zip": "90016"
+  },
+  "contact": {
+    "phone": "(646) 557-1414",
+    "servicePhone": "800899788"
+  },
+  "birthday": "1969-06-11T21:03:15.757Z",
+  "ip": "143.74.159.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Giuzueh tiame bufrefket fe ubuecien kirad mumovsi fol li mirji it zi zurjece. Zettami zajvuf fasbow iwuvolse has peti ebkuk mag zuzvacluv cugen gensoz ovgimeb bezfov. Setfal womjulik zebefumi huwvori tin azfug nun peducba lov wo fukjedlic gilim geeh pugiz ojew vevge wup.",
+    "bio": "Paume dapsaew okpev rujo bejadaizo malijus so hede vorul gun popfa lechimho. Ha ra nidko neca eczesho gisi jokuci tumlom varoz savi apobe etinig cematrat wiso giffob. Pajonku bavujib ho zus zin inkik nam sacoghon bevocke kor duhpabec naoho nanfu jotjukel kaobros."
+  },
+  "apiKey": "e688d08eec35264a2bffb53991ca45a9676d52b25738e388c55b88787aa38e9b",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
