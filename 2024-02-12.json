@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Walton",
+  "age": 30,
+  "address": {
+    "street": "Esne Court",
+    "city": "Ihuriwi",
+    "state": "AZ",
+    "zip": "42380"
+  },
+  "contact": {
+    "phone": "(418) 716-6822",
+    "servicePhone": "800368775"
+  },
+  "birthday": "1982-02-08T22:13:31.570Z",
+  "ip": "158.101.209.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivpogi ranev daozupu ho duf ra punba awoakumoc olobuk kowak roesuzup nabgapbu hojweaj lazmofhol bahag. Deij mu vumi metji teh ufumugab jooc guwjuce ze hi nevpi jila ce gosdac nogac bebip. Wuba pobubav lem wifvaf ges isu mokov jamij si epta lokanbun be ceh. Gibsavu es jowle zop dur duadohoz usehare no lu ajavmaj dude raki gumgudos.",
+    "bio": "Cukwor zog dipubeh ujirusroj vi kejnoce ah zit co guteb pew gedbacsuw worke teklot amuufzor enso tim fut. Jebbek sem wipiab ijopagig foluti he cirag onimefaf titidgu cikwe cu baeralub. Sutludo lug faga iga fa hutuaka buned abbubuj erfalo un jikgujo ceh lijko tup wav sacawine."
+  },
+  "apiKey": "e830869bf775e3227228209f7f60cc6385cf0c055a90eaabb1923b79876b3d78",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
