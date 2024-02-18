@@ -1,0 +1,26 @@
+{
+  "name": "Duane Woods",
+  "age": 33,
+  "address": {
+    "street": "Azko Plaza",
+    "city": "Ipcelwa",
+    "state": "AL",
+    "zip": "79463"
+  },
+  "contact": {
+    "phone": "(320) 850-8652",
+    "servicePhone": "800694871"
+  },
+  "birthday": "1996-11-12T17:53:24.687Z",
+  "ip": "9.162.105.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Ficvejru zop ajsidko ar povufiz obuha ahcugor buko bofef vaf hi koilero ligocgi mufre. Lefeci bejebod igdu gecober gum op onetavu awibe unonuziv afesuhgip ha jit elhew muh voh nuzecazu. Zolirpiw nottag ene buraem gaba cu amtote owhele bovucsir hev ogihuawu huzafe uvovubob.",
+    "bio": "Zemup sitfimris hazgu ref cifogjo tijzuv ujru ru capes si siadeima kejijso dinjome ced zu. Fe matolmi zeivnow napeme ankozir fakdicbib mepsoj de gu du ce kiz deben. Agrepo baidupom zo ah ehusajot dohhoidu rolaboh wiz pudo adipa hieha medlaome. Ruta li sin uve uf cufgic en zuhoc uwjivjis lipva desof reenofet firlaan ge elatba erpovine perte cavdos."
+  },
+  "apiKey": "0e9c1f41d4745f6cb1df2b06ad87261933926b9576aa3cfc737787bd3d33e79f",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
