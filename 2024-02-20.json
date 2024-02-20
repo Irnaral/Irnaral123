@@ -1,0 +1,26 @@
+{
+  "name": "Martha Pearson",
+  "age": 27,
+  "address": {
+    "street": "Jevot Junction",
+    "city": "Uwakamun",
+    "state": "CA",
+    "zip": "80502"
+  },
+  "contact": {
+    "phone": "(343) 397-4137",
+    "servicePhone": "800712936"
+  },
+  "birthday": "1984-06-14T12:49:04.917Z",
+  "ip": "26.138.162.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibikiha fitwed gij faz kapowa li pinasjud diokural rub mozuh rosocabi fekat kunbinpat vutob. Rahirsa siuditeg hinotul azaodke uhenevu ca tataewe zecajad pem abju idsif oniguome vimi zoceb nub eslude kawupha. Guna node tatoke gumwecla izu ku bujbaovo bohiwfic akmice ozfecili wo emcusleg awwawe jepelaso denkafuk tolwukig wutlol finsol.",
+    "bio": "Ovva igomtan genuvafi voow falcapebi cacfoffa wazecu iwbar akasbi hinlehpoc boejaca defomezot pivvar. Fum dafut dofipa hukhiib gi boilu zakpi ipuwazge heg ridnucrow devaglof sij le. Ovof pehek jadihse ozcevuc da fabor tehrupo befmanah wejev newo cuvudi nedopra ecbij atinib ta."
+  },
+  "apiKey": "7a694ce80d1809009cd96957386358a19fe9b1dcc9c91d27be88443551bbcb68",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
