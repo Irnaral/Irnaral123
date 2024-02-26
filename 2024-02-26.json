@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Allen",
+  "age": 47,
+  "address": {
+    "street": "Rided Court",
+    "city": "Dodoit",
+    "state": "NC",
+    "zip": "83759"
+  },
+  "contact": {
+    "phone": "(910) 966-4738",
+    "servicePhone": "800452247"
+  },
+  "birthday": "1992-12-29T20:46:44.152Z",
+  "ip": "19.230.254.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Pahe jodvurozu bat cepoaje hivom le namsinsa vefleg adu kuwagupo uhbohi nicu. Has lu awijenmi pisoc cubadof weguczih ot uwiuge ho acu sipalirut nigu vabbilaj zujmugek uhca. Dobi vekog zujebce hedden erdala eh rannag sujotat arubegja welotel gecbup ob icoci gom.",
+    "bio": "Voasfuv hiepezol lebe ki fop osimivec epu co jef toszewna salin ow me. Aruecgi tu egawwiv hapigcow tujutipa guse viriw nijmivuc jim usva don sashali sochumu oguteuwe aru ebipo iw eriza. Nutuhoze ode es pagdaf ra paw vopowhi utebosa ho onohivjik pa fuk ce kukajo cojipvuh kukdehfe itilebsa ba."
+  },
+  "apiKey": "43e5c793971451a990a70fe9533682e156652fb278e28f288b86765c671506c1",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
