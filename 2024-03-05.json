@@ -1,0 +1,26 @@
+{
+  "name": "Don Cannon",
+  "age": 56,
+  "address": {
+    "street": "Tukde Boulevard",
+    "city": "Surweso",
+    "state": "CT",
+    "zip": "30576"
+  },
+  "contact": {
+    "phone": "(387) 864-7837",
+    "servicePhone": "800354443"
+  },
+  "birthday": "2003-06-11T16:06:35.987Z",
+  "ip": "102.179.147.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Rodete peiwo dov ge letihep ofejasuz ub bida hilji ijuipori bawomi azouheju miwtej. Samse foafi bogi aniabo bokhu sekorma hiowe owa duhbapa sajuem suahufib pahubgac ciggusog. Zelvupa nefa em duwtuw ira imi sezuc zi wusa edbez nu ejjic lowcafe kotpaflag be eraav.",
+    "bio": "Ruwtemih ac tobweoc duzcev jok gag je fajtabkob pompepic pa logca inutullel bi sojit nu cozis peojuve muc. Gihup alavfe mimilap ombu ire vucaggi bav ozar dowguf ce fivte co calmemot ithufi. Mi sifudo bogdugcaf seki uk gile senwu ihuhumu wotcu ine gotu tonot cecivugi hacocizi aleme siwkib bu ecedu. Amodewo zini emawi hot fa rodib ar apuuz lovmun bu wamweril vomka wopja."
+  },
+  "apiKey": "9bc67532497ff895c9a69fee9d644518e4550ce0f67efc3bef3dbd64b917f909",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
