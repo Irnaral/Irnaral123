@@ -1,0 +1,26 @@
+{
+  "name": "Luke Olson",
+  "age": 35,
+  "address": {
+    "street": "Waclez Ridge",
+    "city": "Jerzince",
+    "state": "MS",
+    "zip": "77277"
+  },
+  "contact": {
+    "phone": "(726) 269-7538",
+    "servicePhone": "800381372"
+  },
+  "birthday": "1965-12-11T09:37:27.363Z",
+  "ip": "160.210.162.93",
+  "foo": "bar",
+  "profile": {
+    "about": "No gucivma icaedeoz wiliplov gahelitul bew lodpol epais kaf ca bo hah kujvidgab cacdosij ubo mo nehef daruwza. Us tod tokresog tiija suzlarmu nemiskot ifnut hiwko bif owtez cikkib hane avozetile. Nok cej we neziw jik ra dub oklogfi rogsusfa macsiz zuhlo fipludra giecni kotkubuve widej ebu. Evwapter redbeh cale uhakiku del hed poh ege tubej mi sor wuz olpa hic aviuvetem ulefej.",
+    "bio": "Ni naplef ripwa unap sepelip va avohe beg lupuv muepde verpi annulmi legve idwodi ko. Utmeeh wi omacov la mihuwjeg gacor maj sonizop wabunfu powubma ha col owuev baep eppol da colud ohaulim. Zuafmez vucoj waz cojuzi wuk ujiuz bourail nok gen meevge uve sigjaffo."
+  },
+  "apiKey": "68c90bfec7e6038df48db3973dfc423ae99cb9454129aa4b90b7e4286cc36797",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
