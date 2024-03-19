@@ -1,0 +1,26 @@
+{
+  "name": "Sara Porter",
+  "age": 18,
+  "address": {
+    "street": "Reded Glen",
+    "city": "Netane",
+    "state": "NY",
+    "zip": "89159"
+  },
+  "contact": {
+    "phone": "(934) 519-5247",
+    "servicePhone": "800261797"
+  },
+  "birthday": "1976-01-23T09:16:24.273Z",
+  "ip": "58.217.229.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Povluti vejoj zula dokwib owwo pujzapik weta ge fimmimfag uhkaz gu mobnu ofi. Taj winiz dudij ecepakih ti oj gijja riwwoja rem iwige gehiw col. Kubzupu ipauca muglercor eteebtaj cib em pirred zo ev samuwlof dehof kulej. Didwon rap zeuva sudgi gufco davser vupden wizudacu son ujdibu vom cos ajewi hajve naijla modu updiese.",
+    "bio": "Va zebipcev udawitu utaini kumme bik teokal lokivuv otnuhiva za jonudo nec vin lofdas vukwo aka wu idu. Gekjuh biz tipsik bez go jenni pihet deego cewom vuhpokpaw lo ikairi wuz tul. Pogcow neknuhvek ki pozra becheseb mifga iwohazoho vow cuco taku ubiwafcus zewcolne nikiddu mab. Ew boaz jalgam tatmaguk zozcev siftij ida ewfek af zinik ol ahocobpu si si be wizon. Piizzij eg gin cetnup kukcuc ketsucdaz vaksuwzo popib baj meske ajo morveszaw pepma runed zomfur bawid. Gac gezorup zan lol tof rifi zobusa etfu um nafracge ago rar ze etkecwiv gecbokfu."
+  },
+  "apiKey": "e3f0518c4132ba3721ef639358abfe2f31694cdfd9d710859953667924b14947",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
